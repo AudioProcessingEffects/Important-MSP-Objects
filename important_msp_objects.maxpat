@@ -145,7 +145,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 519.0, 588.0, 150.0, 25.0 ],
-					"text" : "spectroscope~"
+					"text" : "spectroscope~",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
@@ -158,7 +159,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 377.0, 600.0, 63.0, 25.0 ],
-					"text" : "scope~"
+					"text" : "scope~",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
@@ -292,7 +294,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 50.0, 216.0, 51.0, 25.0 ],
-					"text" : "meter"
+					"text" : "meter",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
@@ -305,7 +308,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 50.0, 400.0, 41.0, 25.0 ],
-					"text" : "gain"
+					"text" : "gain",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
